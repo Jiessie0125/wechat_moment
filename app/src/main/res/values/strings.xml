@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">wechat-moment</string>
+    <string name="wechat_moments">朋友圈</string>
 </resources>
